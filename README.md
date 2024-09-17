@@ -1,24 +1,3 @@
- # Lessons and Frameworks by Module
-
-## Module 1: The Digital Finance Ecosystem
-
-### Lessons:
-- **Technological Evolution**: How the Network Age, driven by data and connectivity, transforms finance.
-   - **Example**: The transformation from paper-based systems to automated, cloud-based financial management systems.
-   - **Application**: Using cloud accounting software like Xero to manage financial records in real-time across geographies.
-
-- **Impact of Technology**: How emerging technologies like blockchain, AI, and automation shape finance.
-- **Digital Ecosystems**: Understanding how interconnected systems of platforms, data, and services create value in finance.
-- **FinTech and Digital Transformation**: Key innovations and their integration into existing business models.
-  - **Example**: The rise of digital wallets like PayPal and Google Pay.
-  - **Application**: Integrating digital payment methods for faster, secure online transactions in e-commerce.
-
-### Frameworks:
-- **Digital Finance Cube**: A model used to analyze digital finance through three dimensions: business functions, technology, and institutions.
-   - **Example**: Peer-to-peer lending platforms like LendingClub, which bypass traditional financial institutions.
-   - **Application**: Businesses adopting digital financing models such as crowdfunding or invoice factoring via platforms like MarketFinance.
-- **Ten Types of Innovation**: A framework for identifying opportunities and challenges in financial innovation by examining business model innovations.
-
 # Digital Finance Ecosystem vs Traditional Finance System
 
 ## Digital Finance Ecosystem Summary
@@ -73,8 +52,26 @@ The **Digital Finance Ecosystem** is a networked environment that integrates tec
 The **Digital Finance Ecosystem** is a transformative shift from the traditional finance system, offering improvements in efficiency, accessibility, and innovation. While traditional finance is heavily regulated and perceived as more stable, digital finance provides real-time processing, decentralized transactions, and lower costs. As technology advances, digital finance is expected to grow and dominate in accessibility and global reach.
 
 ---
+## Lesson 1: The Digital Finance Ecosystem
 
-## Module 2: Future of Money
+### Lessons:
+- **Technological Evolution**: How the Network Age, driven by data and connectivity, transforms finance.
+   - **Example**: The transformation from paper-based systems to automated, cloud-based financial management systems.
+   - **Application**: Using cloud accounting software like Xero to manage financial records in real-time across geographies.
+
+- **Impact of Technology**: How emerging technologies like blockchain, AI, and automation shape finance.
+- **Digital Ecosystems**: Understanding how interconnected systems of platforms, data, and services create value in finance.
+- **FinTech and Digital Transformation**: Key innovations and their integration into existing business models.
+  - **Example**: The rise of digital wallets like PayPal and Google Pay.
+  - **Application**: Integrating digital payment methods for faster, secure online transactions in e-commerce.
+
+### Frameworks:
+- **Digital Finance Cube**: A model used to analyze digital finance through three dimensions: business functions, technology, and institutions.
+   - **Example**: Peer-to-peer lending platforms like LendingClub, which bypass traditional financial institutions.
+   - **Application**: Businesses adopting digital financing models such as crowdfunding or invoice factoring via platforms like MarketFinance.
+- **Ten Types of Innovation**: A framework for identifying opportunities and challenges in financial innovation by examining business model innovations.
+---
+## Lesson 2: Future of Money
 
 ### Lessons:
 - **Digital Currency**: Understanding the transition from traditional money to e-money, virtual currencies, and cryptocurrencies.
@@ -96,7 +93,7 @@ The **Digital Finance Ecosystem** is a transformative shift from the traditional
 
 ---
 
-## Module 3: Technology and Its Use in Finance
+## Lesson 3: Technology and Its Use in Finance
 
 ### Lessons:
 - **Automation**: Introduction to Robotic Process Automation (RPA) and its applications in finance.
@@ -116,7 +113,7 @@ The **Digital Finance Ecosystem** is a transformative shift from the traditional
    
 ---
 
-## Module 4: Data Analytics, Interpretation, and Visualization
+## Lesson 4: Data Analytics, Interpretation, and Visualization
 
 ### Lessons:
 - **Data Literacy**: Importance of data skills for finance professionals to inform decision-making.
@@ -137,7 +134,7 @@ The **Digital Finance Ecosystem** is a transformative shift from the traditional
 
 ---
 
-## Module 5: Risk Management, Governance, and Regulation
+## Lesson 5: Risk Management, Governance, and Regulation
 
 ### Lessons:
 - **Risk Management**: Importance of identifying, analyzing, and mitigating risks in digital finance operations.
